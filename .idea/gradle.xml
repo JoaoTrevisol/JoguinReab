@@ -4,6 +4,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+<<<<<<< HEAD
         <option name="externalProjectPath" value="$PROJECT_DIR$/JoguinReab-master/MovimentoSprite" />
         <option name="modules">
           <set>
@@ -13,6 +14,21 @@
           </set>
         </option>
       </GradleProjectSettings>
+=======
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Joguin/MovimentoSprite_final (1)/MovimentoSprite_final/MovimentoSprite" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Joguin/MovimentoSprite_final (1)/MovimentoSprite_final/MovimentoSprite" />
+            <option value="$PROJECT_DIR$/Joguin/MovimentoSprite_final (1)/MovimentoSprite_final/MovimentoSprite/core" />
+            <option value="$PROJECT_DIR$/Joguin/MovimentoSprite_final (1)/MovimentoSprite_final/MovimentoSprite/lwjgl3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Joguin/MovimentoSprite_final (1)/MovimentoSprite_final/__MACOSX/MovimentoSprite" />
+        <option name="gradleJvm" value="17" />
+      </GradleProjectSettings>
+>>>>>>> ffa819c827fae6a5a2ef0f154b750d4c8aebd809
     </option>
   </component>
 </project>

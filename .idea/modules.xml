@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/JoguinReab-master.iml" filepath="$PROJECT_DIR$/.idea/JoguinReab-master.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Joguinn.iml" filepath="$PROJECT_DIR$/.idea/Joguinn.iml" />
+>>>>>>> ffa819c827fae6a5a2ef0f154b750d4c8aebd809
     </modules>
   </component>
 </project>
